@@ -1,4 +1,4 @@
-# Codveda Full-Stack Internship - Level 3, Task 1: Full-Stack Application (MERN)
+ Full-Stack Application (MERN)
 
 A complete full-stack application combining a React frontend, an Express/Node.js backend,
 MongoDB database, and JWT-based authentication.
